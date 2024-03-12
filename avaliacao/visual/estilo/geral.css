@@ -1,0 +1,38 @@
+#header{
+    text-align: center;
+}
+#golden{
+    background-color: goldenrod;
+    margin-left: 70px;
+    margin-right: 1700px;
+}
+#brown{
+    background-color: brown;
+    margin-left: 120px;
+    margin-right: 1600px;
+}
+#gray{
+    background-color: gray;
+    margin-left: 170px;
+    margin-right: 1500px;
+}
+#yellow{
+    background-color: yellowgreen;
+    margin-left: 220px;
+    margin-right: 1400px;
+}
+#red{
+    background-color: violet;
+    margin-left: 270px;
+    margin-right: 1300px;
+}
+#orange{
+    background-color: orange  ;
+    margin-left: 320px;
+    margin-right: 1200px;
+}
+#aqua{
+    background-color: aqua  ;
+    margin-left: 370px;
+    margin-right: 1100px;
+}
